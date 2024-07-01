@@ -1,0 +1,47 @@
+*{
+    background-color: lightgray;
+}
+.container{
+    height: 450px;
+    width: 210px;
+    background-color: white;
+    border-radius: 5%;
+    position: absolute;
+    left: 50%;
+    top: 25%    
+   
+}
+
+img{
+    height: 60%;
+    border-radius: 5%;
+    width: 88%;
+    position: absolute;
+    left: 5%;
+    top: 3% 
+    
+}
+#top{
+    position: absolute;
+    top: 63%;
+    left: 5%;
+    right: 5%;
+    background-color: white;
+    font-weight: bolder;
+    text-align: center;
+}
+#bottom{
+    position: absolute;
+     top: 77%;
+     left: 5%;
+     right: 5%;
+     background-color: white;
+     color: gray;
+     text-align: center;
+     opacity: 70%;
+}
+.attribution{
+    position: absolute;
+    left: 50%;
+    top: 105%;
+}
