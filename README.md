@@ -24,8 +24,8 @@ This is a trial of my first ever Frontend Mentor Challenge. It is a QR Code Comp
 
 ### Links
 
-- Solution URL: ([https://your-solution-url.com](https://github.com/beqqi/FrontEndMentor-Challenges))
-- Live Site URL: ()
+- Solution URL: (https://github.com/beqqi/FrontEndMentor-Challenges)
+- Live Site URL: (https://beqqi.github.io/FrontEndMentor-Challenges/)
 
 ## My process
 I started with structuring the HTML. I used absolute positioning layout to position it. I used the colors as given on the Figma file to create consistency and this is the final look. It could be better, but this is what I could do for now as a beginner but more tricks to come as I get more comfotable with flex and grid to make the page more responsive.
