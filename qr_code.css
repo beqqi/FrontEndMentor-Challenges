@@ -1,47 +1,56 @@
-*{
-    background-color: lightgray;
+@import url('https://fonts.googleapis.com/css2?family=Outfit&display=swap');
+body {
+    min-height: 100dvh;
+    display: grid;
+    place-items: center;
+    background-color: #D5E1EF;
 }
+
+
 .container{
+    position: relative;
     height: 450px;
-    width: 210px;
+    width: 20dvw;
     background-color: white;
     border-radius: 5%;
-    position: absolute;
-    left: 50%;
-    top: 25%    
+       
    
+}
+.inner-container{
+    position: absolute;
+    margin-top: 4%;
+    margin-left: 4%;
+    margin-right: 4%;
+    
 }
 
 img{
-    height: 60%;
+    /*display: block;*/
+    max-width: 100%;
+    height: 50%;
     border-radius: 5%;
-    width: 88%;
-    position: absolute;
-    left: 5%;
-    top: 3% 
+    
     
 }
 #top{
-    position: absolute;
-    top: 63%;
-    left: 5%;
-    right: 5%;
     background-color: white;
-    font-weight: bolder;
+    color :#1F314F;
+    font-weight: bold;
+    font-family: 'Outfit', sans-serif;
+    font-size: 18px;
     text-align: center;
 }
 #bottom{
-    position: absolute;
-     top: 77%;
-     left: 5%;
-     right: 5%;
+    margin-top: 0px;
      background-color: white;
+     font-family: 'Outfit', sans-serif;
+     font-size: 14px;
+     font-weight: regular;
+     letter-spacing: 0.19px;
      color: gray;
      text-align: center;
      opacity: 70%;
 }
-.attribution{
-    position: absolute;
-    left: 50%;
-    top: 105%;
-}
+
+    .attribution { font-size: 11px; text-align: center; }
+    .attribution a { color: hsl(228, 45%, 44%); }
