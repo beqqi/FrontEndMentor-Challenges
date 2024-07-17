@@ -34,8 +34,10 @@ img{
 }
 #top{
     background-color: white;
+    margin-left: 4px;
+    margin-right: 4px;
     color :#1F314F;
-    font-weight: bold;
+    font-weight: 900;
     font-family: 'Outfit', sans-serif;
     font-size: 22px;
     text-align: center;
@@ -49,7 +51,7 @@ img{
      letter-spacing: 0.19px;
      color: gray;
      text-align: center;
-     opacity: 70%;
+     opacity: 80%;
 }
 
     .attribution { font-size: 11px; text-align: center; }
