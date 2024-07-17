@@ -68,7 +68,8 @@ To see how you can add code snippets, see below:
 
 ### Continued development
 This challenge has alerted me that I should get a solid grasp on CSS layout and sharpening my understand on those is my goal until I get comfortable with different types of layout especially flex and grid. 
-
+(edit)
+I have improved my solution based on the helpful comments I have recieved from the community. This time, it seems a lot closer to the design, however I still could not replicate the font as same as the design, although I have used the same type of fonts and size, etc..
 
 
 ## Author
