@@ -9,7 +9,7 @@ body {
 
 .container{
     position: relative;
-    height: 450px;
+    height: 497px;
     width: 20dvw;
     background-color: white;
     border-radius: 5%;
@@ -37,14 +37,14 @@ img{
     color :#1F314F;
     font-weight: bold;
     font-family: 'Outfit', sans-serif;
-    font-size: 18px;
+    font-size: 22px;
     text-align: center;
 }
 #bottom{
     margin-top: 0px;
      background-color: white;
      font-family: 'Outfit', sans-serif;
-     font-size: 14px;
+     font-size: 15px;
      font-weight: regular;
      letter-spacing: 0.19px;
      color: gray;
