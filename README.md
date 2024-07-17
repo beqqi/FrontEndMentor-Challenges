@@ -19,7 +19,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 This is a trial of my first ever Frontend Mentor Challenge. It is a QR Code Component and it is built using HTML and CSS. 
 
 ### Screenshot
-![image](https://github.com/user-attachments/assets/2b96062d-0320-4868-aea2-0be1d24720f5)
+![image](https://github.com/user-attachments/assets/2f0fbdca-3277-47f8-a4cc-b46a05004314)
+
 
 
 
